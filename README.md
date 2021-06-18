@@ -6,3 +6,4 @@ The goal of this project is to optimize(automate) the item classification step i
 
 The entire project was completed in the course of 9 weeks, which was fairly challenging given that we were taking 3 other classes. (3 of us were taking on another marketing analytics project for Nestle-Starbucks Coffee Partners during the same time.) On top of the tight deadline, we were also learning Python and Natural Language Processing technique extensively for the first time in our program. Despite all challenges, we were able to deliver working models with fully documented python script for the stakeholders. 
 
+NOTE: We're not able to provide the data files here because they are proprietary to Amazon.com. 
